@@ -103,3 +103,7 @@ header {
 .bot_header {
     font-size: 35px;
 }
+b {
+    flex: auto;
+    justify-content: center;
+}

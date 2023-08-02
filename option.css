@@ -165,3 +165,6 @@ button {
     display: flex;
     justify-content: center;
 }
+.bot_font b {
+    justify-content: center;
+}
