@@ -146,9 +146,11 @@ button {
 }
 
 .bot {
-    margin: 50px;
+    margin: auto;
     padding: 25px;
-    background-color: rgb(249, 249, 249);
+    background-color: white;
+    margin: auto;
+    
 }
 
 .bot_pic {
@@ -159,12 +161,4 @@ button {
 }
 .bot_pic img {
     width: 50px;
-}
-
-.bot_font {
-    display: flex;
-    justify-content: center;
-}
-.bot_font b {
-    justify-content: center;
 }

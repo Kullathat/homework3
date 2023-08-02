@@ -36,34 +36,12 @@ header {
     font-size: 20px;
     color: black;
 }
-.bot {
-    margin: 50px;
-    padding: 25px;
-    background-color: rgb(255, 248, 248);
-}
-
-.bot_pic {
-    display: flex;
-    justify-content: center;
-    margin: 5px;
-    gap: 2rem;
-}
-.bot_pic img {
-    width: 50px;
-}
-
-.bot_font_header {
-    display: flex;
-    justify-content: center;
-}
 
 .bottom {
     margin-left: 10%;
     margin-right: 10%;
     display: flex;
     flex-direction: column;
-    
-    
 }
 
 .bottom_column {
@@ -100,10 +78,24 @@ header {
     padding: 10px;
     color: azure;
 }
-.bot_header {
-    font-size: 35px;
+.bot {
+    margin: 50px;
+    padding: 25px;
+    background-color: white;
+    margin: auto;
+
+    
 }
-b {
-    flex: auto;
+
+.bot_pic {
+    display: flex;
     justify-content: center;
+    margin: 5px;
+    gap: 2rem;
+}
+.bot_pic img {
+    width: 50px;
+}
+.top_header {
+    font-size: 30px;
 }
